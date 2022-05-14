@@ -1,0 +1,1 @@
+//switch sama seperti bahsa pemograman yang kalian ketahui yaitu menggunakan switch case break default
