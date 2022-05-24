@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    text-decoration-color: rgb(175, 173, 173);
+}
+h1 {
+    color  :brown;
+    font-size: 1000%;
+    animation-delay: 100ms;
+}
